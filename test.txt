@@ -4,5 +4,6 @@ create branch dev !
 the dev is no commit!
 this is bug branch from dev branch !
 fix bug branch !
-this is test for merge !
-AAAAAAAA
+this is test for merge
+AAAAAAA
+BBBBBBB
