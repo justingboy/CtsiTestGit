@@ -3,3 +3,4 @@ this is my collager white messages is A and B and C!
 create branch dev !
 the dev is no commit!
 this is bug branch from dev branch !
+fix bug branch !
