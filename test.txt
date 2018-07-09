@@ -1,3 +1,4 @@
 This is an test
 this is my collager white messages is A and B and C!
-this is an B!
+this is an B
+this us an C
