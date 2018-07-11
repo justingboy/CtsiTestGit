@@ -3,3 +3,4 @@ this is my collager white message is A!
 this is second~!
 This is an test
 This git password store!
+This is test the password has stored?
